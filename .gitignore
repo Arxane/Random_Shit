@@ -1,0 +1,7 @@
+# Ignore CIFAR-10 data
+cifar10/
+*.tar.gz
+*.zip
+*.npz
+data/
+datasets/
